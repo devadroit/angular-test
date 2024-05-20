@@ -1,5 +1,3 @@
-Claro, aquí tienes una prueba completa y sencilla para evaluar las capacidades de un desarrollador de Angular 16, cubriendo los temas mencionados.
-
 ### Prueba Técnica para Desarrollador Angular 16
 
 #### Instrucciones:
@@ -66,6 +64,3 @@ Nota: Prohibido usar CHATGPT para generar códigos, esta es una evaluación pers
 - Asegúrate de que tu código esté bien estructurado y comentado.
 - Incluye un archivo `README.md` con instrucciones sobre cómo configurar y ejecutar tu proyecto.
 
----
-
-Esta prueba abarca una amplia gama de temas importantes en Angular 16 y debería proporcionar una buena evaluación de las habilidades del desarrollador. Si necesitas algún ajuste o tema adicional, házmelo saber.
