@@ -57,7 +57,7 @@ Nota: Prohibido usar CHATGPT para generar códigos, esta es una evaluación pers
     - Implementa una simple autenticación de usuarios utilizando Angular Fire o cualquier otra solución de autenticación.
 
 13. **Testing E2E:**
-    - Escribe pruebas end-to-end (E2E) utilizando Protractor o Cypress.
+    - Escribe pruebas end-to-end (E2E) utilizando Cypress.
 
 ### Entrega:
 - Comparte el enlace a tu repositorio de GitHub con tu solución.
